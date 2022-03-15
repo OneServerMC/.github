@@ -1,12 +1,21 @@
-## OneServerへようこそ！ 👋
 
-<!--
+<h1 align="center">OneServerへようこそ！！</h1>
 
-**Here are some ideas to get you started:**
+<br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://www.one-server.jp/"><img src="https://pbs.twimg.com/profile_banners/1429813442135748616/1631463759/1500x500" alt="OneServer Banner" width="900px"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://www.one-server.jp/">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/OneServerMC">Twitter</a></strong> |
+  <strong><a href="https://discord.gg/pqN6mqc3A8">Discord</a></strong> |
+  <strong><a href="https://www.twitch.tv/oneservermc">Twitch</a></strong>
+</p>
+
+<p align="center">Minecraft Java版で国家戦争・経済・RPGを楽しめる公開マルチサーバー</p>
+
+-----
+
+<h5 align="center">Created by M1n1don</h5>
