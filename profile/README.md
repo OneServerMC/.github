@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.one-server.jp/"><img src="https://pbs.twimg.com/profile_banners/1429813442135748616/1631463759/1500x500" alt="OneServer Banner" width="900px"></a>
+  <a href="https://www.one-server.jp/"><img src="https://pbs.twimg.com/profile_banners/1429813442135748616/1631463759/1500x500" alt="OneServer Banner" width="700px"></a>
 </p>
 
 <p align="center">
