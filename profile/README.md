@@ -17,5 +17,3 @@
 <p align="center">Minecraft Java版で国家戦争・経済・RPGを楽しめる公開マルチサーバー</p>
 
 -----
-
-<h5 align="center">Created by M1n1don</h5>
